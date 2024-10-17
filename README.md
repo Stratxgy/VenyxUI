@@ -1,7 +1,7 @@
 # VenyxUI
-Reupload of the Venyx UI Library for Roblox
+Reupload of the Venyx UI Library WITH DOCUMENTATION
 
-Plus Documentation!!!! (im wasting my time)
+This took a lil while so make sure to star because this is the only documentation
 
 ## Booting The Library
 ```lua
