@@ -21,7 +21,7 @@ TextColor = Color3.fromRGB(255, 255, 255)
 }
 ```
 
-## Does something, just put it at the end
+## Changes the starting page for the ui
 ```lua
 venyx:SelectPage(venyx.pages[1], true)
 ```
